@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshikDavidRoy
-- 👀 I’m interested in Learning interesting 
+- 👀 I’m interested in Learning new and interesting topics
 - 🌱 I’m currently learning Btech in computer science and engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
