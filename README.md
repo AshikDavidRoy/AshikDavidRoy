@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AshikDavidRoy
 - 👀 I’m interested in Learning new and interesting topics
-- 🌱 I’m currently learning Btech in computer science and engineering
+- 🌱 I’m completed learning Btech in computer science and engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-Gmail : ashikdavidroy2024@cs.sjcetpalai.ac.in
+Gmail : ashikdavidroy2022@gmail.com
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
